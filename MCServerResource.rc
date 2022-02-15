@@ -1,0 +1,3 @@
+LIBEAY32 RCDATA "Win32\\Debug\\libeay32.dll"
+SSLEAY32 RCDATA "Win32\\Debug\\ssleay32.dll"
+ZLIB1 RCDATA "Win32\\Debug\\zlib1.dll"

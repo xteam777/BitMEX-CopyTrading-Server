@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.639,C:\Base_1C\_WS\MCServer\uWSThread.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\uMain.dfm=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,=C:\Base_1C\_WS\MCServer\Win32\Debug\libeay32.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\uMain.pas=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Base_1C\_WS\MCServer\uMain.dfm=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Base_1C\_WS\MCServer\uWSThread.pas=C:\Base_1C\_WS\MCServer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,=C:\Base_1C\_WS\MCServer\Win32\Debug\ssleay32.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,C:\Base_1C\_WS\MCServer\MCServer.dproj=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\MCServer.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,=C:\Base_1C\_WS\MCServer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=C:\Base_1C\_WS\MCServer\Win32\Debug\zlib1.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\MCServer.dproj=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Base_1C\_WS\MCServer\uMain.pas=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\uMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
